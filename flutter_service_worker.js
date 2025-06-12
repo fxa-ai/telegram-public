@@ -25,15 +25,16 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm_heavy.wasm": "d5ea04786dab71d4330d30fa108cf785",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "baab3b6ad5e74e3f0d43d96274f5fba9",
-"flutter_bootstrap.js": "4d52c0d9e4050b09d5fc143b6be2c973",
+"flutter_bootstrap.js": "be966c76435b743c46f72ddf9a0368e3",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "946efd501718690d4b1b6c96d81ea8c2",
-"/": "946efd501718690d4b1b6c96d81ea8c2",
+"index.html": "6afa7b0cef3771395ce74671c7f2bed8",
+"/": "6afa7b0cef3771395ce74671c7f2bed8",
 "main.dart.js": "b5e3ed2cc8a31f6928ba864549bc1f75",
 "manifest.json": "5f3c5e247346e2a9f5ebf6969033454e",
+"telegram-web-app.js": "2db55d684f07c95beee17f42802f772b",
 "version.json": "2a819da0af17162cb69732c40b536175"};
 // The application shell files that are downloaded before a service worker can
 // start.
